@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I like to code, passionate for information security and B.I.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social netwoks:</h3>
 <p align="left">
 </p>
 
