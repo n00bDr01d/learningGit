@@ -620,14 +620,14 @@ git flow hotfix finish VERSION
 
 ### Comandos
 <p align="center">
-	<img alt="Git" src="../img/git-flow-commands.png" height="270" width="460">
+	<img alt="Git" src="/img/git-flow-commands.png" height="270" width="460">
 </p>
 
 <hr>
 
 ### Esquema de git flow
 <p align="center">
-	<img alt="Git" src="../img/git-flow-commands-without-flow.png">
+	<img alt="Git" src="/img/git-flow-commands-without-flow.png">
 </p>
 
 <hr>
