@@ -13,6 +13,12 @@
 
 `git push -u origin <rama>` --sube los cambios al repositorio en github en la rama <rama>
 
+`git fetch origin` --sincroniza cambios con el repositorio para tener la ultima version 
+
+`git pull origin master` --obtendrá todos los cambios de la rama maestra del control remoto y los fusionará en su local 
+
+`git merge origin/master` --Nosotros podemos hacer lo mismo con este comando
+
 Git Cheat Sheet en español [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============
 
