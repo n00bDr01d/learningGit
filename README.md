@@ -10,3 +10,5 @@
 `git add .` --añade todos los archivos necesarios a la db
 
 `git commit -m "mensaje"` --añade los cambios a la BD del repositorio y -m le agrega un mensaje
+
+`git push -u origin <rama>` --sube los cambios al repositorio en github en la rama <rama>
