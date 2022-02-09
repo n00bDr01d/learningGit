@@ -11,6 +11,8 @@
 
 `git commit -m "mensaje"` --añade los cambios a la BD del repositorio y -m le agrega un mensaje
 
+`git remote add origin <direccion del repo en github>` --Añade al repositorio local el repositorio en github
+
 `git push -u origin <rama>` --sube los cambios al repositorio en github en la rama <rama>
 
 `git fetch origin` --sincroniza cambios con el repositorio para tener la ultima version 
